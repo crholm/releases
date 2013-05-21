@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="se.rzz" module="play-gzip_2.10" revision="1.1.1" status="release" publication="20130521161159">
+	<info organisation="se.rzz" module="play-gzip_2.10" revision="1.2" status="release" publication="20130521175036">
 		<description>
 		play-gzip
 		</description>
